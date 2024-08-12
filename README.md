@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahil Bagde</h1>
 <h3 align="center">A passionate QA Engineer from India. (Manaul + Automation Testing)</h3>
 
-- 🔭 I’m currently working on automation project [Playwright_Automation](https://github.com/sahilbagde1/Playwright_Automation)
+- 🔭 I’m currently working on automation project using playwright with JavaScript [Playwright Automation](https://github.com/sahilbagde1/Playwright_Automation)
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, Playwright Web Automation**
+- 🌱 I’m currently learning **Learning and Implementing JavaScript, TypeScript, Playwright Web Automation, BDD Cucumber Framework, HTML/ Allure Reporting, CI/CD - Jenkins, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sahilbagde1/Playwright_Automation](https://github.com/sahilbagde1/Playwright_Automation)
 
