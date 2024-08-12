@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sahilbagde@gmail.com**
 
-- 📄 Know about my experiences [Result driven ISTQB ® Certified Sr. QA Engineer with 7.5+ Years of experience specializing in Manual Testing, Automation Testing, API Testing and Database Testing. Proficient in various testing methodologies, tools and Agile practices. Expertise in test strategy, planning, execution with manual, automation of modern web applications and cross functional collaboration.](Result driven ISTQB ® Certified Sr. QA Engineer with 7.5+ Years of experience specializing in Manual Testing, Automation Testing, API Testing and Database Testing. Proficient in various testing methodologies, tools and Agile practices. Expertise in test strategy, planning, execution with manual, automation of modern web applications and cross functional collaboration.)
+- 📄 Know about my experiences [Result driven ISTQB ® Certified Sr. QA Engineer with 7.5+ Years of experience specializing in Manual Testing, Automation Testing, API Testing and Database Testing. Proficient in various testing methodologies, tools and Agile practices. Expertise in test strategy, planning, execution with manual, automation of modern web applications and cross functional collaboration.]
 
 - ⚡ Fun fact **I have a good scene of humor**
 
