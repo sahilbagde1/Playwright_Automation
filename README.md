@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **and implementing JavaScript, TypeScript, Playwright Web Automation, BDD Cucumber Framework, HTML/ Allure Reporting, CI/CD - Jenkins, Docker**
 - Also I have acquired mastery in technical skills 
-    in 𝐀𝐏𝐈: Postman
+    in 𝐀𝐏𝐈 Testing: Postman tool
 
 - 👨‍💻 All of my projects are available at [https://github.com/sahilbagde1/Playwright_Automation](https://github.com/sahilbagde1/Playwright_Automation)
 
