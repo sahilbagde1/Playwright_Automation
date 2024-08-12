@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Bagde</h1>
-<h3 align="center">A Passionate QA Engineer From Pune, Maharastra, India. (Manaul + Automation Testing)</h3>
+<h3 align="center">A Passionate QA Engineer From Pune, Maharastra, India. (Manaul + Automation QA Engineer)</h3>
 
 - 🔭 I’m currently working on automation project using playwright with javascript [Playwright Automation](https://github.com/sahilbagde1/Playwright_Automation)
 
