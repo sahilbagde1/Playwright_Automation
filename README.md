@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on automation project using playwright with javascript [Playwright Automation](https://github.com/sahilbagde1/Playwright_Automation)
 
-- 🌱 I’m currently learning **and Implementing JavaScript, TypeScript, Playwright Web Automation, BDD Cucumber Framework, HTML/ Allure Reporting, CI/CD - Jenkins, Docker**
+- 🌱 I’m currently learning **and implementing JavaScript, TypeScript, Playwright Web Automation, BDD Cucumber Framework, HTML/ Allure Reporting, CI/CD - Jenkins, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sahilbagde1/Playwright_Automation](https://github.com/sahilbagde1/Playwright_Automation)
 
