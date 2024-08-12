@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [Result driven ISTQB ® Certified Sr. QA Engineer with 7.5+ Years of experience specializing in Manual Testing, Automation Testing, API Testing and Database Testing. Proficient in various testing methodologies, tools and Agile practices. Expertise in test strategy, planning, execution with manual, automation of modern web applications and cross functional collaboration.]
 
-- ⚡ Fun fact **I have a good scene of humor**
+- ⚡ Fun fact **I have a good sense of humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
