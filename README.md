@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I have a good sense of humour**
 
-- **Playwright Automation Capabilities**
+- **Playwright Automation Capabilities:**
   Resilient • No flaky tests
   Auto-wait. Playwright waits for elements to be actionable prior to performing actions. It also has a rich set of introspection events. The combination of the two eliminates the need for artificial timeouts - a    primary cause of flaky tests.
 
