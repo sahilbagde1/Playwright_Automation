@@ -27,8 +27,8 @@
   Tracing. Configure test retry strategy, capture execution trace, videos and screenshots to eliminate flakes.
 
   No trade-offs • No limits
-  Browsers run web content belonging to different origins in different processes. Playwright is aligned with the architecture of the modern browsers and runs tests out-of-process. This makes Playwright free of   
-  the typical in-process test runner limitations.
+  Browsers run web content belonging to different origins in different processes. Playwright is aligned with the architecture of the modern browsers and runs tests out-of-process.This makes Playwright free of the 
+  typical in-process test runner limitations.
 
   Multiple everything. Test scenarios that span multiple tabs, multiple origins and multiple users. Create scenarios with different contexts for different users and run them against your server, all in one test.
 
@@ -37,7 +37,7 @@
   Test frames, pierce Shadow DOM. Playwright selectors pierce shadow DOM and allow entering frames seamlessly.
 
   Full isolation • Fast execution
-  Browser contexts. Playwright creates a browser context for each test. Browser context is equivalent to a brand new browser profile. This delivers full test isolation with zero overhead. Creating a new browser   
+  Browser contexts. Playwright creates a browser context for each test. Browser context is equivalent to a brand new browser profile. This delivers full test isolation with zero overhead.Creating a new browser 
   context only takes a handful of milliseconds.
 
   Log in once. Save the authentication state of the context and reuse it in all the tests. This bypasses repetitive log-in operations in each test, yet delivers full isolation of independent tests.
