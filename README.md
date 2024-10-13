@@ -40,7 +40,7 @@
   Browser contexts. Playwright creates a browser context for each test. Browser context is equivalent to a brand new browser profile. This delivers full test isolation with zero overhead.Creating a new browser 
   context only takes a handful of milliseconds.
 
-  Log in once. Save the authentication state of the context and reuse it in all the tests. This bypasses repetitive log-in operations in each test, yet delivers full isolation of independent tests.
+  Log in once. Save the authentication state of the context and reuse it in all the tests. This bypasses repetitive log-in operations in each test.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
