@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on automation project using playwright with javascript [Playwright Automation](https://github.com/sahilbagde1/Playwright_Automation)
 
-- 🌱 I’m currently **designing and developning JavaScript, Playwright Web Automation, BDD Cucumber Framework, HTML/ Allure Reporting, CI/CD - Jenkins, Docker**
+- 🌱 I’m currently **designing and developning a JavaScript, Playwright Web Automation, BDD Cucumber Framework, HTML/ Allure Reporting, CI/CD - Jenkins, Docker**
 - Also I have acquired mastery in technical skills : Manual Testing | API Testing | SQL | Database Testing | Mobile Testing | JavaScript | TypeScript | Playwright | BDD Framework | CI/CD | Jenkins | Docker | 
   Agile - Scrum | JIRA
 
